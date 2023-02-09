@@ -7,7 +7,6 @@ class Solution {
 
 
         for(int i=0;i<a;i++){
-        int z=0;
         int k=n[i];
             for(int j=i+1;j<a;j++){
                 int m=n[j];
